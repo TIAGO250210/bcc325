@@ -1,8 +1,6 @@
 # Esse codigo foi produzido em parcerian com meiu colega leandro
 # tiago gomes da silva, matricula 19.2.4009
 
-
-
 import numpy as np
 import copy
 import random
@@ -131,17 +129,3 @@ if __name__ == '__main__':
     sol, val = genetic_search(variables, domain, constraints, 10000, 1000, eval_sol)
     print(sol)
     print(val)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
